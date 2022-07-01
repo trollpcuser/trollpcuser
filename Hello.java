@@ -3,9 +3,9 @@ public class Hello
 {
 	public static void main(String args[])
 	{
-		Scanner input = new Scanner(System.in);
+		Scanner input = new Scanner(System.in); //This line declares Scn
 		System.out.println("Enter the first number");
-		int a = input.nextInt();
+		int a = input.nextInt(); // This line takes input to a..
 		System.out.println("Enter the Second number");
 		int b = input.nextInt();
 		System.out.println("Enter the Third Number");
