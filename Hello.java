@@ -18,3 +18,4 @@ public class Hello //We have to declare a public class
 		System.out.println("Average of three numbers is" +avg);
 	}
 
+Y are you touching my file
